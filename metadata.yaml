@@ -1,0 +1,17 @@
+composer: Adlgasser, Anton Cajetan
+title: Litaniae lauretanae
+id: AWV 3.05
+genre: litany
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 clno, timp, 2 vl, b, org
+sources:
+  1:
+    siglum: D-Mbs
+    shelfmark: Mus.ms. 8377
+    type: manuscript copy
+    date: unknown
+    rism: 454016769
+    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00064512-6
+github: adlgasser-litaniae-lauretanae-AWV-3.05
+imslp: Lytanie_Lauretana_(Adlgasser%2C_Anton_Cajetan)
+notes:
+
