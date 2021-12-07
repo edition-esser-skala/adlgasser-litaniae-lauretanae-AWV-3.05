@@ -1,17 +1,27 @@
-composer: Adlgasser, Anton Cajetan
-title: Litaniae lauretanae
+composer:
+  last: Adlgasser
+  first: Anton Cajetan
+title: Litaniæ lauretanæ
 id: AWV 3.05
 genre: litany
 scoring: S, A, T, B (solo), S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, b, org
+license: cc-by-nc-sa-4.0
 sources:
-  1:
+  B1:
     siglum: D-Mbs
     shelfmark: Mus.ms. 8377
-    type: manuscript copy
-    date: unknown
+    date: 1740–1760
     rism: 454016769
-    url: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00064512-6
-github: adlgasser-litaniae-lauretanae-AWV-3.05
+    url: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00064512-6
+    license: CC BY-NC-SA 4.0
+    principal: true
+  B2:
+    siglum: A-Sd
+    shelfmark: A 9
+    date: 1750–1777
+    rism: 659000019
+    license: public domain
+    notes: only used for timp
 imslp: Lytanie_Lauretana_(Adlgasser%2C_Anton_Cajetan)
-notes:
-
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
